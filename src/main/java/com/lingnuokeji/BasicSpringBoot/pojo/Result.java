@@ -1,4 +1,4 @@
-package com.lingnuokeji.classmanagementsystemjava.pojo;
+package com.lingnuokeji.BasicSpringBoot.pojo;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

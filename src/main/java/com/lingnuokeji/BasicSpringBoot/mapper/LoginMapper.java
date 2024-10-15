@@ -1,7 +1,7 @@
-package com.lingnuokeji.classmanagementsystemjava.mapper;
+package com.lingnuokeji.BasicSpringBoot.mapper;
 
-import com.lingnuokeji.classmanagementsystemjava.pojo.DTO.UserDTO;
-import com.lingnuokeji.classmanagementsystemjava.pojo.VO.UserVO;
+import com.lingnuokeji.BasicSpringBoot.pojo.DTO.UserDTO;
+import com.lingnuokeji.BasicSpringBoot.pojo.VO.UserVO;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
 

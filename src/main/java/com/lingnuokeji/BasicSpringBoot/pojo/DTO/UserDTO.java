@@ -1,4 +1,4 @@
-package com.lingnuokeji.classmanagementsystemjava.pojo.VO;
+package com.lingnuokeji.BasicSpringBoot.pojo.DTO;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -8,9 +8,10 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class UserVO {
+public class UserDTO {
     private String id;// 用户序号
     private String username; //用户名
     private String password; //密码
-    private String rolesid; // 用户权限
+    private String device; //设备号
+    private String screenName;// 屏幕名称
 }

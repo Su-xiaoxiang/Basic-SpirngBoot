@@ -1,11 +1,9 @@
-package com.lingnuokeji.classmanagementsystemjava.service.Impl;
+package com.lingnuokeji.BasicSpringBoot.service.Impl;
 
-import com.lingnuokeji.classmanagementsystemjava.mapper.LoginMapper;
-import com.lingnuokeji.classmanagementsystemjava.pojo.DTO.UserDTO;
-import com.lingnuokeji.classmanagementsystemjava.pojo.VO.UserVO;
-import com.lingnuokeji.classmanagementsystemjava.service.LoginService;
-import com.lingnuokeji.classmanagementsystemjava.utils.IpUtil;
-import jakarta.servlet.http.HttpServletRequest;
+import com.lingnuokeji.BasicSpringBoot.mapper.LoginMapper;
+import com.lingnuokeji.BasicSpringBoot.pojo.DTO.UserDTO;
+import com.lingnuokeji.BasicSpringBoot.pojo.VO.UserVO;
+import com.lingnuokeji.BasicSpringBoot.service.LoginService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

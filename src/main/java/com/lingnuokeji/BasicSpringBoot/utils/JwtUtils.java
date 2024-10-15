@@ -1,9 +1,9 @@
-package com.lingnuokeji.classmanagementsystemjava.utils;
+package com.lingnuokeji.BasicSpringBoot.utils;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.lingnuokeji.classmanagementsystemjava.pojo.DTO.UserDTO;
-import com.lingnuokeji.classmanagementsystemjava.pojo.DTO.UserSessionInfo;
+import com.lingnuokeji.BasicSpringBoot.pojo.DTO.UserDTO;
+import com.lingnuokeji.BasicSpringBoot.pojo.DTO.UserSessionInfo;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;

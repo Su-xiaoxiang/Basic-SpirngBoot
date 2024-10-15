@@ -1,6 +1,6 @@
-package com.lingnuokeji.classmanagementsystemjava.controller;
+package com.lingnuokeji.BasicSpringBoot.controller;
 
-import com.lingnuokeji.classmanagementsystemjava.pojo.Result;
+import com.lingnuokeji.BasicSpringBoot.pojo.Result;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RestController;

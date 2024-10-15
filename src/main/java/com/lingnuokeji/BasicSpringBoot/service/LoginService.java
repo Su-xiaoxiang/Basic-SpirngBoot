@@ -1,8 +1,7 @@
-package com.lingnuokeji.classmanagementsystemjava.service;
+package com.lingnuokeji.BasicSpringBoot.service;
 
-import com.lingnuokeji.classmanagementsystemjava.pojo.DTO.UserDTO;
-import com.lingnuokeji.classmanagementsystemjava.pojo.VO.UserVO;
-import jakarta.servlet.http.HttpServletRequest;
+import com.lingnuokeji.BasicSpringBoot.pojo.DTO.UserDTO;
+import com.lingnuokeji.BasicSpringBoot.pojo.VO.UserVO;
 
 /**
  * @UserName 程序员_Suxiaoxiang
