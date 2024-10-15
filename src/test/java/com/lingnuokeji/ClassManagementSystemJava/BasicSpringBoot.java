@@ -1,10 +1,10 @@
-package com.lingnuokeji.BasicSpringBoot;
+package com.lingnuokeji.ClassManagementSystemJava;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BasicSpringBoot {
+class ClassManagementSystemJava {
 
     @Test
     void contextLoads() {

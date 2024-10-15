@@ -1,9 +1,9 @@
-package com.lingnuokeji.BasicSpringBoot.service.Impl;
+package com.lingnuokeji.ClassManagementSystemJava.service.Impl;
 
-import com.lingnuokeji.BasicSpringBoot.mapper.LoginMapper;
-import com.lingnuokeji.BasicSpringBoot.pojo.DTO.UserDTO;
-import com.lingnuokeji.BasicSpringBoot.pojo.VO.UserVO;
-import com.lingnuokeji.BasicSpringBoot.service.LoginService;
+import com.lingnuokeji.ClassManagementSystemJava.mapper.LoginMapper;
+import com.lingnuokeji.ClassManagementSystemJava.pojo.DTO.UserDTO;
+import com.lingnuokeji.ClassManagementSystemJava.pojo.VO.UserVO;
+import com.lingnuokeji.ClassManagementSystemJava.service.LoginService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

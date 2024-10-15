@@ -44,4 +44,15 @@ mvn spring-boot:run
 ```
 ## 📄 许可证
 
-[MIT](https://github.com/Su-xiaoxiang/Basic-springboot/blob/main/LICENSE) © Su-xiaoxiang  
+本项目采用 [MIT 许可证](https://github.com/Su-xiaoxiang) 开源，具体内容如下：
+```bash
+MIT License
+
+Copyright (c) [2024年] [Coder-Su]
+
+在此许可下，任何人均可获得该软件的副本和相关文档文件（“软件”），并可以自由使用、复制、修改、合并、发布、分发、再许可和/或出售软件的副本，且在遵循以下条件的情况下：
+
+上述版权声明和本许可声明应包含在软件的所有副本或重要部分中。
+
+该软件是“按原样”提供的，不附带任何明示或暗示的担保，包括但不限于适销性、特定用途适用性和非侵权的担保。无论在任何情况下，作者或版权持有者均不应对因软件或软件的使用或其他交易而导致的任何索赔、损害或其他责任承担责任。
+```

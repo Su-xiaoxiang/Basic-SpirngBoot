@@ -1,4 +1,4 @@
-package com.lingnuokeji.BasicSpringBoot.utils;
+package com.lingnuokeji.ClassManagementSystemJava.utils;
 
 
 import jakarta.servlet.http.HttpServletRequest;

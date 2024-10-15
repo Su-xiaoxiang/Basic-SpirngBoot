@@ -1,7 +1,7 @@
-package com.lingnuokeji.BasicSpringBoot.exception;
+package com.lingnuokeji.ClassManagementSystemJava.exception;
 
 
-import com.lingnuokeji.BasicSpringBoot.pojo.Result;
+import com.lingnuokeji.ClassManagementSystemJava.pojo.Result;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;

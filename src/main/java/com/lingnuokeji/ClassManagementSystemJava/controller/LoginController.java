@@ -1,11 +1,11 @@
-package com.lingnuokeji.BasicSpringBoot.controller;
+package com.lingnuokeji.ClassManagementSystemJava.controller;
 
-import com.lingnuokeji.BasicSpringBoot.pojo.DTO.UserDTO;
-import com.lingnuokeji.BasicSpringBoot.pojo.Result;
-import com.lingnuokeji.BasicSpringBoot.pojo.VO.UserVO;
-import com.lingnuokeji.BasicSpringBoot.service.LoginService;
-import com.lingnuokeji.BasicSpringBoot.utils.IpUtil;
-import com.lingnuokeji.BasicSpringBoot.utils.JwtUtils;
+import com.lingnuokeji.ClassManagementSystemJava.pojo.DTO.UserDTO;
+import com.lingnuokeji.ClassManagementSystemJava.pojo.Result;
+import com.lingnuokeji.ClassManagementSystemJava.pojo.VO.UserVO;
+import com.lingnuokeji.ClassManagementSystemJava.service.LoginService;
+import com.lingnuokeji.ClassManagementSystemJava.utils.IpUtil;
+import com.lingnuokeji.ClassManagementSystemJava.utils.JwtUtils;
 import jakarta.servlet.http.HttpServletRequest;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

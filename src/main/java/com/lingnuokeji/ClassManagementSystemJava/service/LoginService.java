@@ -1,7 +1,7 @@
-package com.lingnuokeji.BasicSpringBoot.service;
+package com.lingnuokeji.ClassManagementSystemJava.service;
 
-import com.lingnuokeji.BasicSpringBoot.pojo.DTO.UserDTO;
-import com.lingnuokeji.BasicSpringBoot.pojo.VO.UserVO;
+import com.lingnuokeji.ClassManagementSystemJava.pojo.DTO.UserDTO;
+import com.lingnuokeji.ClassManagementSystemJava.pojo.VO.UserVO;
 
 /**
  * @UserName 程序员_Suxiaoxiang

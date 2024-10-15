@@ -1,9 +1,9 @@
-package com.lingnuokeji.BasicSpringBoot.fitter;
+package com.lingnuokeji.ClassManagementSystemJava.fitter;
 
 
 import com.alibaba.fastjson.JSONObject;
-import com.lingnuokeji.BasicSpringBoot.pojo.Result;
-import com.lingnuokeji.BasicSpringBoot.utils.JwtUtils;
+import com.lingnuokeji.ClassManagementSystemJava.pojo.Result;
+import com.lingnuokeji.ClassManagementSystemJava.utils.JwtUtils;
 import io.jsonwebtoken.Claims;
 import jakarta.servlet.*;
 import jakarta.servlet.annotation.WebFilter;
